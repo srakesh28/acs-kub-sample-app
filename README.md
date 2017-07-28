@@ -22,7 +22,6 @@ Appl details https://microservices-demo.github.io/microservices-demo/deployment/
       GCP:  https://cloud.google.com/container-engine/docs/clusters/operations
       
       AWS:  https://github.com/kubernetes/kops or 
-      
             https://microservices-demo.github.io/microservices-demo/deployment/kubernetes.html
 	
  2) git clone https://github.com/microservices-demo/microservices-demo.git
