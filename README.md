@@ -12,7 +12,7 @@
   
 ##  Demo2 - E-commerce Application running on Kubernetes Cluster on Any Cloud or On-premises 
 
-# Appl details https://microservices-demo.github.io/microservices-demo/deployment/monitoring-kubernetes.html
+Appl details https://microservices-demo.github.io/microservices-demo/deployment/monitoring-kubernetes.html
 
 
  1) Create Kubernetes Clusters and Get the credential of kub cluster
