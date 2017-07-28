@@ -68,5 +68,6 @@ Appl details https://microservices-demo.github.io/microservices-demo/deployment/
          git clone https://github.com/microservices-demo/microservices-demo.git
 	 
          kubectl create -f ./deploy/kubernetes/manifests-monitoring
-        ```
+        
+	```
 
