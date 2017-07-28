@@ -10,13 +10,19 @@
   
   ```
   
-##  Demo2 - E-commerce Application running on Kubernetes Cluster on Any Cloud or On-premises # Appl details https://microservices-demo.github.io/microservices-demo/deployment/monitoring-kubernetes.html
+##  Demo2 - E-commerce Application running on Kubernetes Cluster on Any Cloud or On-premises 
+
+# Appl details https://microservices-demo.github.io/microservices-demo/deployment/monitoring-kubernetes.html
 
 
  1) Create Kubernetes Clusters and Get the credential of kub cluster
       Azure : https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-kubernetes-walkthrough
+      
       GCP:  https://cloud.google.com/container-engine/docs/clusters/operations
-      AWS:  https://github.com/kubernetes/kops or https://microservices-demo.github.io/microservices-demo/deployment/kubernetes.html
+      
+      AWS:  https://github.com/kubernetes/kops or 
+      
+            https://microservices-demo.github.io/microservices-demo/deployment/kubernetes.html
 	
  2) git clone https://github.com/microservices-demo/microservices-demo.git
  
@@ -56,6 +62,4 @@
          a. git clone https://github.com/microservices-demo/microservices-demo.git
 	 
          b. kubectl create -f ./deploy/kubernetes/manifests-monitoring
-         
-
-  
+          
